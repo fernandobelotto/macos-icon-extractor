@@ -1,0 +1,12 @@
+# Generated icons
+app_icons/
+
+# Compiled Swift binary
+extract-icon
+
+# macOS system files
+.DS_Store
+*.swp
+
+# Test files
+/tmp/
